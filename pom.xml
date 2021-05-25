@@ -22,6 +22,7 @@
             <artifactId>spring-boot-starter-artemis</artifactId>
         </dependency>
         <!-- Setting up an embedded server -->
+        <!--
         <dependency>
             <groupId>org.apache.activemq</groupId>
             <artifactId>artemis-server</artifactId>
@@ -30,6 +31,7 @@
             <groupId>org.apache.activemq</groupId>
             <artifactId>artemis-jms-server</artifactId>
         </dependency>
+        -->
         <!-- embedded server config ends -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
